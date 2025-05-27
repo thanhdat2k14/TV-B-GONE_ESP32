@@ -1,0 +1,7 @@
+Thay vì phiên bản thư viện của esp32 là 3.x.x,
+ thì bạn phải hạ cấp xuống phiên bản 2.0.6 :).
+ Tôi thật sự XIN LỖI điều đó ;(
+**************************************************************
+Instead of esp32 library version being 3.x.x,
+ you have to downgrade to version 2.0.6 :) .
+ I'm really SORRY about that ;(
